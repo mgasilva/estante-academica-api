@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.env
+.env.*
+!.env.example
+data/
+*.db
+*.sqlite
+*.sqlite3
+*.db-*
+preparar_etapa2.py
+preparar_etapa3.py

@@ -1,0 +1,13 @@
+.git
+.venv
+**/__pycache__
+.pytest_cache
+.env
+.env.*
+data
+*.db
+*.sqlite
+*.sqlite3
+*.db-*
+preparar_etapa2.py
+preparar_etapa3.py
